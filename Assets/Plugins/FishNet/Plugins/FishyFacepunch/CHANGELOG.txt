@@ -1,0 +1,30 @@
+2.1.1
+	- Added deinitializer to FishyFacepunch.
+
+2.1.0
+	- Fixed ClientId 32767 not found error when being used with Multipass.
+
+2.0.0
+	- FishNetworking 2.0.0 support.
+
+1.3.1
+	- FishNetworking 1.3.1 Support
+
+1.3.0
+	- Removed obsolete methods
+	- FishNetworking 1.3.0 Support
+
+1.2.0
+	- Removed GC (Full Credits to Punfish - Thank you)
+	- Removed obsolete method
+
+1.1.1
+	- FishNetworking 0.1.5.Nightly.10 Support
+
+1.1.0
+	- Support for client hosted games (needs two separated steam accounts, to test) - Thank to Punfish
+	- Organized folder structure
+	- Removed ChannelData
+
+1.0.0
+	- Initial release.
